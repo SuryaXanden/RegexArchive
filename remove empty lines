@@ -1,8 +1,5 @@
 To remove empty lines in a file
 
 Find
-<pre>^$\n?</pre>
-Replace
-<pre></pre>
-
-* replace it with nothing
+^$\n?
+Replace it with nothing
